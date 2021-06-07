@@ -1,8 +1,10 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Joseph Konka
+subtitle: Fondateur @LeKoinC & Grand amateur du langage C
 ---
+
+Je suis Joseph Koami Konka, togolais vivant au Bénin. Je suis diplômé d'une licence en Mathématiques (2019) à l'Université de Lomé. Je suis Data Scientist Junior chez Rintio.
 
 My name is Inigo Montoya. I have the following qualities:
 
@@ -10,6 +12,11 @@ My name is Inigo Montoya. I have the following qualities:
 - I'm extremely loyal to my family
 
 What else do you need?
+
+Les sujets qui me passionnent:
+1. Algorithmique
+2. Statistique
+3. Apprentissage automatique
 
 ### My story
 
