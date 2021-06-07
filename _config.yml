@@ -6,19 +6,20 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Le Koin C
 
 # Your name to show in the footer
-author: Some Person
+author: Joseph Konka
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Blog: "blog"
+  À propos: "aboutme"
+  Ressources:
+    - Github: "https://github.com/lekoinc"
+    - Youtube: "https://www.markdowntutorial.com/"
+  Joseph Konka: "https://www.linkedin.com/in/joseph-koami-konka/"
 
 # --- Logo --- #
 
@@ -39,15 +40,15 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  patreon: DeanAttali
-  youtube: c/daattali
+  email: "jospeh.kakone@gmail.com"
+  facebook: lekoinc
+  github: lekoinc
+#  twitter: daattali
+#  patreon: DeanAttali
+  youtube: c/lekoinc
 #  medium: yourname
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: lekoinc
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -78,7 +79,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"
+url-pretty: "LeKoinC.github.io"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
