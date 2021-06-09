@@ -8,6 +8,27 @@ share-img: /assets/img/path.jpg
 tags: [introduction, programmation, c]
 ---
 
+Le langage C est un langage de programmation créé en 1972 par Dennis Ritchie. Il s'agit d'un langage de bas-niveau et de type compilé. Bien qu'il ne soit pas un langage de premier choix pour les développeurs et les organisations, il est toujours enseigné dans les universités. Dans cet article, je vous présente les notions de base du langage C. Avant toute chose, je vous propose de rappeler quelques définitions importantes.
+
+### Définitions
+#### Un algorithme
+Un algorithme est une suite ordonnée et finie d'instructions visant à résoudre un problème. Un algorithme doit être sans ambiguïté.
+Il s'agit de la description d'une méthode de calcul.
+
+#### Un programme
+Un programme est une suite d'instructions écrites dans un langage de programmation à exécuter par la machine.
+
+
+### Les types en C
+
+### Les tableaux
+
+### Les pointeurs
+
+### Les structures
+
+### Les fichiers
+
 Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
 
 The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
