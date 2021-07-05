@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Le projet Le Koin C
+title: À propos
 subtitle: Le langage C vit toujours !
 ---
 <!--
@@ -49,7 +49,7 @@ Si vous souhaitez discuter de ces sujets, contactez-moi et ce sera un plaisir je
 
 Peut-être avons nous été camarades, voici les différents établissements que j'ai fréquentés:
 |Année | Diplôme | Établissement |
-| :--- |:--- | :--- |
+| :----- |:--- | :--- |
 | 2016-2019 | Licence | Université de Lomé |
 | 2013-2016 | BAC | Lycée d'Agoè-Nyivé Centre |
 | 2009-2013 | BEPC | CPL Le Phénix |
