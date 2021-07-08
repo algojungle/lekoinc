@@ -2,6 +2,8 @@
 layout: page
 title: À propos
 subtitle: Le langage C vit toujours !
+cover-img: /assets/img/cover.jpg
+share-img: /assets/img/cover.jpg
 ---
 <!--
 ---
@@ -48,8 +50,9 @@ Les sujets qui me passionnent:
 Si vous souhaitez discuter de ces sujets, contactez-moi et ce sera un plaisir je me ferai un plaisir de vous répondre. [Gmail]()|[LinkedIn]()|[Whatsapp]()
 
 Peut-être avons nous été camarades, voici les différents établissements que j'ai fréquentés:
+
 |Année | Diplôme | Établissement |
-| :----- |:--- | :--- |
+| :------ |:--- | :--- |
 | 2016-2019 | Licence | Université de Lomé |
 | 2013-2016 | BAC | Lycée d'Agoè-Nyivé Centre |
 | 2009-2013 | BEPC | CPL Le Phénix |
