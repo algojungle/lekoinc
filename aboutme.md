@@ -2,8 +2,8 @@
 layout: page
 title: À propos
 subtitle: Le langage C vit toujours !
-cover-img: /assets/img/cover.jpg
-share-img: /assets/img/cover.jpg
+cover-img: /assets/img/cover.png
+share-img: /assets/img/cover.png
 ---
 <!--
 ---
