@@ -8,9 +8,10 @@ share-img: /assets/img/path.jpg
 tags: [c, developpement, bonnespratiques, autres]
 ---
 
-Voici quelques bonnes pratiques à adopter lorsque vous programmez. Vos programmes seront plus propores et faciles à maintenir.
+Si un bon programme est défini comme étant un programme qui donne le résultat attendu, il existe tout de même des bonnes pratiques à adpoter. Voici quelques unes qui rendront vos programmes plus propores et plus faciles à maintenir.
+
 ### 1. Indenter le code
-Un bon code c'est avant tout un code lisible. Un code écrit en bloc est difficile à lire et il est impossible de distinguer les différents blocs. Même si vous en êtes l'auteur, vous aurez du mal à vous retrouver.
+Un bon code c'est aussi un code lisible. En effet, un code écrit en bloc est difficile à lire et il est impossible de distinguer les différents blocs. Même si vous en êtes l'auteur, vous aurez du mal à vous retrouver. Prenez l'habitude d'indenter votre code pour une meilleure lisibilté.
 
 ### 2. Commenter
 Parce que d'autres personnes sont amenés à consulter votre code ou  à travailler dessus, il est important de le documenter pour expliquer vos choiix et les actions qui sont faites. Rajouter des commentaires d'abord pour que vous-même vous vous retrouez des années plus tard et pour que d'autres personnes puissent faire évoluer votre code.
