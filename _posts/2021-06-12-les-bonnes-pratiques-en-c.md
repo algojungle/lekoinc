@@ -3,12 +3,11 @@ layout: post
 title: Les bonnes pratiques en C
 subtitle: Quelques bonnes pratiques pour coder proprement !
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [c, developpement, bonnespratiques, autres]
 ---
 
-Si un bon programme est défini comme étant un programme qui donne le résultat attendu, il existe tout de même des bonnes pratiques à adpoter. Voici quelques unes qui rendront vos programmes plus propores et plus faciles à maintenir.
+Si un bon programme est défini comme étant un programme qui donne le résultat attendu, il existe tout de même des bonnes pratiques à adpoter. Voici quelques unes qui rendront vos programmes plus propres et plus faciles à maintenir.
 
 ### 1. Indenter le code
 Un bon code c'est aussi un code lisible. En effet, un code écrit en bloc est difficile à lire et il est impossible de distinguer les différents blocs. Même si vous en êtes l'auteur, vous aurez du mal à vous retrouver. Prenez l'habitude d'indenter votre code pour une meilleure lisibilté.

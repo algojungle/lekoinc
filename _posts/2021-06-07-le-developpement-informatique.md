@@ -1,9 +1,8 @@
 ---
 layout: post
 title: Le développement informatique
-subtitle: Quelques bonnes pratiques pour coder proprement !
+subtitle: Qu'est-ce que le développement informatique ?
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [c, developpement, bonnespratiques, autres]
 ---
