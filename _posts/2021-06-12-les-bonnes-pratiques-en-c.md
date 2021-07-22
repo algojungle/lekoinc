@@ -3,6 +3,7 @@ layout: post
 title: Les bonnes pratiques en C
 subtitle: Quelques bonnes pratiques pour coder proprement !
 cover-img: /assets/img/path.jpg
+thumbnail-img: ""
 share-img: /assets/img/path.jpg
 tags: [c, developpement, bonnespratiques, autres]
 ---
