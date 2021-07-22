@@ -24,7 +24,7 @@ Ce porojet de blog n'est rien d'autre que la concéritsation de mon envie de par
 
 **2021**: J'ai publié la première version du blog [Koin C](https://lekoinc.github.io/)
 
-Si vous souhaitez discuter e vivie voix de ces sujets, contactez-moi et je me ferai un plaisir de vous répondre. [Gmail](joseph.kakone@gmail.com) - [LinkedIn](https://www.linkedin.com/in/joseph-koami-konka/)
+Si vous souhaitez discuter e vivie voix de ces sujets, contactez-moi et je me ferai un plaisir de vous répondre. [Gmail](mailto:joseph.kakone@gmail.com) - [LinkedIn](https://www.linkedin.com/in/joseph-koami-konka/)
 
 Peut-être avons nous été camarades, voici mon parcours scolaire:
 
