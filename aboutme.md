@@ -5,8 +5,6 @@ subtitle: Le langage C vit toujours !
 share-img: /assets/img/cover.png
 ---
 
-### À propos de moi
-
 Je suis Joseph Koami Konka, fondateur @LeKoinC et un grand amateur du langage C.<br>
 Je suis de nationalité togolaise et je vis à Cotonou au Bénin pour le travail.<br>
 📔 J'ai obtenu mon diplômé de licence en Mathématiques en 2019 à l'Université de Lomé.<br>
@@ -29,6 +27,7 @@ Ce porojet de blog n'est rien d'autre que la concéritsation de mon envie de par
 Si vous souhaitez discuter e vivie voix de ces sujets, contactez-moi et je me ferai un plaisir de vous répondre. [Gmail](joseph.kakone@gmail.com) - [LinkedIn](https://www.linkedin.com/in/joseph-koami-konka/)
 
 Peut-être avons nous été camarades, voici mon parcours scolaire:
+
 |Année | Diplôme | Établissement |
 | :------ |:--- | :--- |
 | 2016-2019 | Licence | Université de Lomé |
