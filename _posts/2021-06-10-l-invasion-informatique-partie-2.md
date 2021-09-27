@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Le développement informatique
-subtitle: Qu'est-ce que le développement informatique ?
+title: Comprendre l'invasion informatique - Partie 2
+subtitle: L'informatique fait tourner le monde
 cover-img: /assets/img/path.jpg
 share-img: /assets/img/path.jpg
 tags: [c, developpement, bonnespratiques, autres]
