@@ -16,7 +16,7 @@ Trois sujets me passionnent, l'Algorithmique, la Statistique et l'Apprentissage 
 ### Le Koin C
 À quoi cela sert t-il d'accumuler des connaissances si vous ne les partagez pas ? Ne dit-on pas que «*Le savoir grandit quand on le partage*»
 
-Ce porojet de blog n'est rien d'autre que la concéritsation de mon envie de partager. L'objectif est double, d'une part partager tout ce que j'ai pu apprendre durant mes années de licence ainsi que les projets personnels que j'ai réalisés (me faire une petite réputation) et d'autre part apporter de l'aide à qui en a besoin en particulier aux étudiants en mathématiques.
+Ce projet de blog n'est rien d'autre que la concéritsation de mon envie de partager. Je poursuis un double objectif, d'une part partager tout ce que j'ai pu apprendre durant mes années de licence ainsi que les projets personnels que j'ai réalisés (me faire une petite réputation) et d'autre part apporter de l'aide à qui en a besoin en particulier aux étudiants en mathématiques en mettant à disposition des ressources utiles.
 
 **2018**: Pendant les vacances après ma deuxième année de licence, j'ai décidé de créer un groupe whatsapp pour échnager autour du langage C. J'ai contacté Régis et Clovis qui ont apprécié mon idée et cest ainsi que CodeWasC est né. L'objectif était de nous préparer pour aborder l'UE INF 104. Ce groupe a fait son temps. Vous pouvez rejoindre la discussion via ce [lien]().
 
